@@ -9,8 +9,8 @@ import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
 import org.producttank.screenplay.questions.AllContentResults;
 import org.producttank.screenplay.tasks.OpenApplication;
-import org.producttank.screenplay.tasks.SearchInAddressBar;
-import org.producttank.screenplay.tasks.SearchInMainPage;
+import org.producttank.screenplay.tasks.SearchUsingAddressBar;
+import org.producttank.screenplay.tasks.SearchUsingMainPage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -37,14 +37,14 @@ public class SearchingContentStepDefinitions {
     public void he_searches_using_the_main_page_for_content_containing(String keywords) throws Exception {
         theActorInTheSpotlight().attemptsTo(
                 OpenApplication.onTheMainPage(),
-                SearchInMainPage.forKeywords(keywords)
+                SearchUsingMainPage.forKeywords(keywords)
         );
     }
 
     @When("^he searches using the browser address bar for content containing \"([^\"]*)\"$")
     public void he_searches_using_the_browser_address_bar_for_content_containing(String keywords) throws Exception {
         theActorInTheSpotlight().attemptsTo(
-                SearchInAddressBar.forKeywords(keywords)
+                SearchUsingAddressBar.forKeywords(keywords)
         );
     }
 

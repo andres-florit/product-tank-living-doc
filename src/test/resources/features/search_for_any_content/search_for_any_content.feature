@@ -1,16 +1,16 @@
-Feature: Searching for any content
+Feature: Search for any content
 
-  In order to find relevant content in the web
-  As a search engine user
+  In order to find relevant content
+  As a Google Search user
   I want to search any content by keywords
 
-  Scenario: Anonymous user searches for content in the main page
+  Scenario: Anonymous user searches for any content in the main page
 
     Given an anonymous user
     When he searches using the main page for content containing "product tank cordoba"
     Then search results are shown
 
-  Scenario: Anonymous user searches for content using the browser address bar
+  Scenario: Anonymous user searches for any content using the browser address bar
 
     Given an anonymous user
     When he searches using the browser address bar for content containing "product tank cordoba"

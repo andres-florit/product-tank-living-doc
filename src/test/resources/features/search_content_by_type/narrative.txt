@@ -1,0 +1,5 @@
+Capability: Search content by type
+
+In order to find content of a given type
+As a Google Search user
+I want to search for content by keywords and by type

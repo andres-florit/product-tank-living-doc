@@ -39,3 +39,7 @@ test {
 gradle.startParameter.continueOnFailure = true
 
 test.finalizedBy(aggregate)
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '3.5'
+}

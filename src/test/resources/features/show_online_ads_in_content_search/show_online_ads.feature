@@ -1,7 +1,7 @@
 Feature: Show online ads in content search
 
-  In order to get profits from the search engine
-  As a revenue department manager
+  In order to generate revenue from Google Search
+  As a Revenue Department Manager
   I want to show customers' online advertising in search results
 
   Scenario: Online ads are shown as part of the content search results

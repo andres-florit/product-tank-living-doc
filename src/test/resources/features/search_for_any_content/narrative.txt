@@ -1,0 +1,5 @@
+Capability: Search for any content
+
+In order to find relevant content
+As a Google Search user
+I want to search for any content
