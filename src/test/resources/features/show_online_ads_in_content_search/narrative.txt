@@ -1,0 +1,5 @@
+Capability: Show online advertising in content search
+
+In order to get profits from the search engine
+As a revenue department manager
+I want to show customers' online advertising in search results

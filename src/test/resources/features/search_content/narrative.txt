@@ -1,0 +1,5 @@
+Capability: Search relevant content in the web
+
+In order to find relevant content in the web
+As a search engine user
+I want to search content by keywords
