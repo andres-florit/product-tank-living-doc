@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.17.2-->
+  <key attr.name="Description" attr.type="string" for="graph" id="d0"/>
+  <key for="port" id="d1" yfiles.type="portgraphics"/>
+  <key for="port" id="d2" yfiles.type="portgeometry"/>
+  <key for="port" id="d3" yfiles.type="portuserdata"/>
+  <key attr.name="url" attr.type="string" for="node" id="d4"/>
+  <key attr.name="description" attr.type="string" for="node" id="d5"/>
+  <key for="node" id="d6" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d7" yfiles.type="resources"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d8"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d9"/>
+  <key for="edge" id="d10" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <data key="d0"/>
+    <node id="n0" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="134.97062454223646" width="157.82544982317881" x="596.7050317930923" y="604.3766315460207"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="157.82544982317881" x="0.0" y="0.0">Group 4</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="2.2737367544323206E-13" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.201171875" x="-7.6005859375" y="0.0">Folder 4</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n0:">
+        <node id="n0::n0">
+          <data key="d6">
+            <y:ImageNode>
+              <y:Geometry height="48.0" width="48.0" x="660.4222390258188" y="619.3766315460207"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="22.0" y="52.0"/>
+              <y:Image alphaImage="true" refid="1"/>
+            </y:ImageNode>
+          </data>
+        </node>
+        <node id="n0::n1">
+          <data key="d6">
+            <y:SVGNode>
+              <y:Geometry height="46.803749084472656" width="40.108242590452164" x="699.422239025819" y="655.5747570037845"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="20.44140625" x="9.833418170226082" y="50.803749084472656">BA<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:SVGNodeProperties usingVisualBounds="true"/>
+              <y:SVGModel svgBoundsPolicy="0">
+                <y:SVGContent refid="2"/>
+              </y:SVGModel>
+            </y:SVGNode>
+          </data>
+        </node>
+        <node id="n0::n2">
+          <data key="d6">
+            <y:SVGNode>
+              <y:Geometry height="45.96826171875" width="40.108242590452164" x="629.3139964353664" y="656.4102443695072"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="75.326171875" x="-17.608964642273918" y="49.96826171875">PO or Client<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:SVGNodeProperties usingVisualBounds="true"/>
+              <y:SVGModel svgBoundsPolicy="0">
+                <y:SVGContent refid="3"/>
+              </y:SVGModel>
+            </y:SVGNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n1" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="97.93701171874994" width="89.0" x="1147.4265689849854" y="478.6695461273194"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="89.0" x="0.0" y="0.0">Group 6</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="14" leftF="14.064159393310547" right="8" rightF="7.525684356689453" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.201171875" x="-7.6005859375" y="0.0">Folder 6</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n1:">
+        <node id="n1::n0">
+          <data key="d6">
+            <y:SVGNode>
+              <y:Geometry height="45.96826171875" width="37.41015625" x="1176.490728378296" y="493.6695461273194"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="27.724609375" x="4.8427734375" y="49.96826171874994">Dev<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:SVGNodeProperties usingVisualBounds="true"/>
+              <y:SVGModel svgBoundsPolicy="0">
+                <y:SVGContent refid="4"/>
+              </y:SVGModel>
+            </y:SVGNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n2" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="140.515625" width="141.0" x="1286.2499999999995" y="607.2003810882571"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="141.0" x="0.0" y="0.0">Group 8</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="9" bottomF="8.515625" left="22" leftF="22.0" right="0" rightF="0.0" top="5" topF="5.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.201171875" x="-7.6005859375" y="0.0">Folder 8</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n2:">
+        <node id="n2::n0">
+          <data key="d6">
+            <y:ImageNode>
+              <y:Geometry height="89.0" width="89.0" x="1323.2499999999995" y="627.2003810882571"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="42.5" y="93.0"/>
+              <y:Image alphaImage="true" refid="5"/>
+            </y:ImageNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n3" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="114.30583953857422" width="148.55288124084473" x="1137.6971187591548" y="789.4071388244629"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="148.55288124084473" x="0.0" y="0.0">Group 9</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="11" bottomF="10.953125" left="0" leftF="0.0" right="0" rightF="0.30361080169677734" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="65.201171875" x="-7.6005859375" y="0.0">Folder 9</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n3:">
+        <node id="n3::n0">
+          <data key="d6">
+            <y:SVGNode>
+              <y:Geometry height="46.73667907714844" width="42.4609375" x="1152.6971187591548" y="809.0544242858887"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="21.82421875" x="10.318359375" y="50.73667907714844">QC<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:SVGNodeProperties usingVisualBounds="true"/>
+              <y:SVGModel svgBoundsPolicy="0">
+                <y:SVGContent refid="6"/>
+              </y:SVGModel>
+            </y:SVGNode>
+          </data>
+        </node>
+        <node id="n3::n1">
+          <data key="d6">
+            <y:ImageNode>
+              <y:Geometry height="51.38396453857422" width="49.4731502532959" x="1211.6580562591548" y="804.4071388244629"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="69.103515625" x="-9.81518268585205" y="55.38396453857422">Test Cases</y:NodeLabel>
+              <y:Image alphaImage="true" refid="7"/>
+            </y:ImageNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n4" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="102.0" width="182.50005340576172" x="1424.8703715500324" y="791.7911033630371"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="182.50005340576172" x="0.0" y="0.0">Group 10</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 10</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n4:">
+        <node id="n4::n0">
+          <data key="d6">
+            <y:ImageNode>
+              <y:Geometry height="64.0" width="64.0" x="1528.370424955794" y="806.7911033630371"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="30.0" y="68.0"/>
+              <y:Image alphaImage="true" refid="8"/>
+            </y:ImageNode>
+          </data>
+        </node>
+        <node id="n4::n1">
+          <data key="d6">
+            <y:SVGNode>
+              <y:Geometry height="58.38100051879883" width="58.50005340576172" x="1439.8703715500324" y="809.6006031036377"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="27.25002670288086" y="62.38100051879883">
+                <y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:SVGNodeProperties usingVisualBounds="false"/>
+              <y:SVGModel svgBoundsPolicy="0">
+                <y:SVGContent refid="9"/>
+              </y:SVGModel>
+            </y:SVGNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n5" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="98.04432719083638" width="105.326171875" x="1471.2499999999995" y="628.436029992839"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="105.326171875" x="0.0" y="0.0">Group 11</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 11</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n5:">
+        <node id="n5::n0">
+          <data key="d6">
+            <y:SVGNode>
+              <y:Geometry height="46.075577190836334" width="40.10824259045222" x="1503.8589646422733" y="643.436029992839"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="75.326171875" x="-17.608964642273804" y="50.075577190836384">PO or Client<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:SVGNodeProperties usingVisualBounds="true"/>
+              <y:SVGModel svgBoundsPolicy="0">
+                <y:SVGContent refid="3"/>
+              </y:SVGModel>
+            </y:SVGNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n6" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="58.5" width="99.4340877532959" x="1144.466796875" y="551.5608282089233"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="99.4340877532959" x="0.0" y="0.0">Group 12</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 12</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n6:">
+        <node id="n6::n0">
+          <data key="d6">
+            <y:GenericNode configuration="com.yworks.flowchart.process">
+              <y:Geometry height="28.5" width="69.4340877532959" x="1159.466796875" y="566.5608282089233"/>
+              <y:Fill color="#E8EEF7" color2="#006633" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Century Schoolbook L" fontSize="16" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="18.77587890625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#FFFFFF" verticalTextPosition="bottom" visible="true" width="42.18701171875" x="13.62353801727295" y="4.862060546875">TDD<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n7" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="82.890625" width="281.666015625" x="545.3586066162711" y="534.9000690460207"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="281.666015625" x="0.0" y="0.0">Group 13</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="9" rightF="8.9140625" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 13</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n7:">
+        <node id="n7::n0">
+          <data key="d6">
+            <y:ImageNode>
+              <y:Geometry height="24.0" width="24.0" x="560.3586066162711" y="564.3453815460207"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="10.0" y="28.0"/>
+              <y:Image alphaImage="true" refid="10"/>
+            </y:ImageNode>
+          </data>
+        </node>
+        <node id="n7::n1">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="17.96875" width="170.171875" x="584.3586066162711" y="567.3610065460207"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="52.890625" horizontalTextPosition="center" iconTextGap="0" modelName="internal" modelPosition="l" textColor="#000000" verticalTextPosition="bottom" visible="true" width="214.751953125" x="4.0" y="-17.4609375">The business owner and the
+BA hava a conversation about
+what the business needs.</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n8" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="82.890625" width="198.51513671875" x="1102.417486190796" y="410.7789211273194"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="198.51513671875" x="0.0" y="0.0">Group 15</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="2" rightF="2.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 15</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n8:">
+        <node id="n8::n0">
+          <data key="d6">
+            <y:ImageNode>
+              <y:Geometry height="24.0" width="24.0" x="1117.417486190796" y="439.0735054016113"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="10.0" y="28.0"/>
+              <y:Image alphaImage="true" refid="11"/>
+            </y:ImageNode>
+          </data>
+        </node>
+        <node id="n8::n1">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="45.90625" width="124.556640625" x="1153.417486190796" y="429.2711086273194"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="52.890625" horizontalTextPosition="center" iconTextGap="0" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="136.4736328125" x="-5.95849609375" y="-3.4921875">The Dev translates
+the requirements
+into software</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n9" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="82.890625" width="192.63671875" x="1117.417486190796" y="869.3223533630371"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="192.63671875" x="0.0" y="0.0">Group 16</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 16</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n9:">
+        <node id="n9::n0">
+          <data key="d6">
+            <y:ImageNode>
+              <y:Geometry height="24.0" width="24.0" x="1132.417486190796" y="898.7676658630371"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="10.0" y="28.0"/>
+              <y:Image alphaImage="true" refid="12"/>
+            </y:ImageNode>
+          </data>
+        </node>
+        <node id="n9::n1">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="49.953125" width="133.2734375" x="1161.780767440796" y="885.7911033630371"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="52.890625" horizontalTextPosition="center" iconTextGap="0" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="129.58984375" x="1.841796875" y="-1.46875">The QC translates
+the requirements
+into test cases.</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n10" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="99.1875" width="273.1578870421463" x="1365.963976054517" y="866.1348533630371"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="273.1578870421463" x="0.0" y="0.0">Group 17</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 17</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n10:">
+        <node id="n10::n0">
+          <data key="d6">
+            <y:ImageNode>
+              <y:Geometry height="24.0" width="24.0" x="1380.963976054517" y="903.7286033630371"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="10.0" y="28.0"/>
+              <y:Image alphaImage="true" refid="13"/>
+            </y:ImageNode>
+          </data>
+        </node>
+        <node id="n10::n1">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="45.90625" width="190.17578125" x="1421.0325076279132" y="892.7754783630371"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="69.1875" horizontalTextPosition="center" iconTextGap="0" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="216.0029296875" x="-12.91357421875" y="-11.640625">Team members translates the
+software and user stories into
+functional and technical
+documentation</y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n11" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="99.1875" width="261.6542968749999" x="793.7073952758188" y="524.0884733200073"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="261.6542968749999" x="0.0" y="0.0">Group 17</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 17</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n11:">
+        <node id="n11::n0">
+          <data key="d6">
+            <y:ImageNode>
+              <y:Geometry height="24.0" width="24.0" x="808.7073952758188" y="561.6822233200073"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="10.0" y="28.0"/>
+              <y:Image alphaImage="true" refid="14"/>
+            </y:ImageNode>
+          </data>
+        </node>
+        <node id="n11::n1">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="59.875" width="174.90625" x="851.2132546508188" y="543.7447233200073"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="left" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="14" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="69.1875" horizontalTextPosition="center" iconTextGap="0" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="203.390625" x="-14.2421875" y="-4.65625">The BA writes the US. It
+may be written as Scenarios
+(Given, When, Then) or as
+Statements. </y:NodeLabel>
+              <y:Shape type="rectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n12" yfiles.foldertype="group">
+      <data key="d4"/>
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:GroupNode>
+              <y:Geometry height="99.96875" width="139.1022916627178" x="899.6122583555928" y="621.7160060882571"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle hasColor="false" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="false" width="139.1022916627178" x="0.0" y="0.0">Group 17</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="74.74462890625" x="-12.372314453125" y="0.0">Folder 17</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n12:">
+        <node id="n12::n0">
+          <data key="d6">
+            <y:SVGNode>
+              <y:Geometry height="46.803749084472656" width="40.108242590452164" x="914.6122583555928" y="637.3141315460208"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="20.44140625" x="9.833418170226082" y="50.803749084472656">BA<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="-0.5" nodeRatioX="0.0" nodeRatioY="0.5" offsetX="0.0" offsetY="4.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+              <y:SVGNodeProperties usingVisualBounds="true"/>
+              <y:SVGModel svgBoundsPolicy="0">
+                <y:SVGContent refid="2"/>
+              </y:SVGModel>
+            </y:SVGNode>
+          </data>
+        </node>
+        <node id="n12::n1">
+          <data key="d6">
+            <y:ImageNode>
+              <y:Geometry height="48.0" width="48.0" x="966.2819328308105" y="636.7160060882571"/>
+              <y:Fill color="#CCCCFF" transparent="false"/>
+              <y:BorderStyle color="#000000" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="66.865234375" x="-9.4326171875" y="52.0">User Story</y:NodeLabel>
+              <y:Image alphaImage="true" refid="15"/>
+            </y:ImageNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n13">
+      <data key="d6">
+        <y:GenericNode configuration="com.yworks.flowchart.terminator">
+          <y:Geometry height="148.4355514526368" width="218.13501670985443" x="1102.417486190796" y="796.5733276367187"/>
+          <y:Fill hasColor="false" transparent="false"/>
+          <y:BorderStyle color="#FF6600" type="line" width="2.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="107.06750835492721" y="72.21777572631845">
+            <y:LabelModel>
+              <y:SmartNodeLabelModel distance="4.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+            </y:ModelParameter>
+          </y:NodeLabel>
+        </y:GenericNode>
+      </data>
+    </node>
+    <edge id="e0" source="n12" target="n1">
+      <data key="d10">
+        <y:ArcEdge>
+          <y:Path sx="48.05290440679835" sy="-62.901318359375296" tx="-61.95977210998535" ty="-12.00944709777832">
+            <y:Point x="1065.9639892578125" y="552.9833984375"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:Arc height="11.974143028259277" ratio="0.32746464014053345" type="fixedRatio"/>
+        </y:ArcEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="n1" target="n2">
+      <data key="d10">
+        <y:ArcEdge>
+          <y:Path sx="44.48620819807206" sy="-11.375563452023528" tx="13.997854526979154" ty="-70.23492001403054">
+            <y:Point x="1319.118896484375" y="538.7947998046875"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:Arc height="27.713932037353516" ratio="0.6833088994026184" type="fixedRatio"/>
+        </y:ArcEdge>
+      </data>
+    </edge>
+    <edge id="e2" source="n3" target="n2">
+      <data key="d10">
+        <y:ArcEdge>
+          <y:Path sx="74.27684341790155" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="1368.87744140625" y="781.760986328125"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:Arc height="-51.329654693603516" ratio="-1.1206780672073364" type="fixedRatio"/>
+        </y:ArcEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n2" target="n5">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="70.476806640625" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="n7::n1" target="n7">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="n12" target="n3">
+      <data key="d10">
+        <y:ArcEdge>
+          <y:Path sx="38.00326247971509" sy="66.79961891174287" tx="-85.49004554748535" ty="2.1458206176757812">
+            <y:Point x="1047.4044189453125" y="814.629150390625"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:Arc height="-28.622852325439453" ratio="-0.7048884034156799" type="fixedRatio"/>
+        </y:ArcEdge>
+      </data>
+    </edge>
+    <edge id="e6" source="n12" target="n12">
+      <data key="d10">
+        <y:ArcEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="969.1633911132812" y="671.7003784179688"/>
+          </y:Path>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:Arc height="0.0" ratio="1.0" type="fixedRatio"/>
+        </y:ArcEdge>
+      </data>
+    </edge>
+    <edge id="e7" source="n0" target="n12">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="78.88399470915908" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e8" source="n4" target="n12">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-91.25391443046556" sy="-12.921123897335292" tx="28.00326247971509" ty="-0.20038108825713152"/>
+          <y:LineStyle color="#000000" type="dashed" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="n4" target="n2::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="-53.5106177805435" sy="-50.996133651753325" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="dashed" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+  <data key="d7">
+    <y:Resources>
+      <y:Resource id="1" type="java.awt.image.BufferedImage">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</y:Resource>
+      <y:Resource id="2">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="57px" height="65px" viewBox="0 0 57 65" enable-background="new 0 0 57 65" xml:space="preserve"&gt;
+&lt;g&gt;
+	&lt;polygon fill="#FAE1AA" stroke="#F9C969" stroke-linecap="round" stroke-linejoin="round" points="44.365,49.031 13.101,53.422 
+		12.191,30.465 43.408,31.092 	"/&gt;
+	
+		&lt;linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="26.3398" y1="3115.7266" x2="27.5807" y2="3145.5239" gradientTransform="matrix(1 0 0 1 0.3203 -3091.7656)"&gt;
+		&lt;stop  offset="0.2711" style="stop-color:#FFAB4F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFD28F"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path fill="url(#SVGID_1_)" stroke="#ED9135" stroke-miterlimit="10" d="M49.529,51.225c-4.396-4.396-10.951-5.884-12.063-6.109
+		V37.8H19.278c0,0,0.038,6.903,0,6.868c0,0-6.874,0.997-12.308,6.432C1.378,56.691,0.5,62.77,0.5,62.77
+		c0,1.938,1.575,3.492,3.523,3.492h48.51c1.947,0,3.521-1.558,3.521-3.492C56.055,62.768,54.211,55.906,49.529,51.225z"/&gt;
+	
+		&lt;radialGradient id="face_x5F_white_1_" cx="27.5835" cy="3117.4922" r="23.425" fx="23.0139" fy="3115.0024" gradientTransform="matrix(1 0 0 1 0.3203 -3091.7656)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#FFD28F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFAB4F"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="face_x5F_white_3_" fill="url(#face_x5F_white_1_)" stroke="#ED9135" stroke-miterlimit="10" d="M43.676,23.357
+		c0.086,10.2-6.738,18.52-15.25,18.586c-8.5,0.068-15.464-8.146-15.55-18.344C12.794,13.4,19.618,5.079,28.123,5.012
+		C36.627,4.945,43.59,13.158,43.676,23.357z"/&gt;
+	
+		&lt;linearGradient id="face_highlight_1_" gradientUnits="userSpaceOnUse" x1="6468.501" y1="-12291.5195" x2="6492.1304" y2="-12384.9688" gradientTransform="matrix(0.275 0 0 -0.2733 -1752.8849 -3351.7349)"&gt;
+		&lt;stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.24"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.16"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path id="face_highlight_3_" fill="url(#face_highlight_1_)" d="M28.415,5.625c-6.035,0.047-10.747,4.493-12.787,10.386
+		c-0.664,1.919-0.294,4.043,0.98,5.629c2.73,3.398,5.729,6.283,9.461,8.088c3.137,1.518,7.535,2.385,11.893,1.247
+		c2.274-0.592,3.988-2.459,4.375-4.766c0.187-1.094,0.293-2.289,0.283-3.553C42.54,13.244,36.729,5.56,28.415,5.625z"/&gt;
+	&lt;path fill="#FAE1AA" stroke="#E2B354" stroke-linecap="round" stroke-linejoin="round" d="M17.754,45.004
+		c-0.413-3.02-0.771-6.182-0.946-9.033c-0.574-9.349,2.886-17.721,2.886-17.721l0.882-2.078l0.94,2.419l1.872-4.956l-0.049,4.553
+		l1.311-0.749l0.701-1.653L25.715,18l1.055-0.988l2.13-0.729L29.84,17l0.479-2.375l0.834,2.554l1.125-1.024l1.68-0.214l1.07,1.372
+		l-0.243-4.246l1.883,3.967L37.611,17c0,0,5.595,10.622,3.313,29.1c2.154,0.76,4.916,2.016,7.316,3.976
+		c0.001-0.001,0.011-0.013,0.011-0.013L44.111,19.38C43.079,12.873,38.752,2.599,28.73,2.648
+		C5.153,2.568,13.025,42.055,8.945,49.334c-0.007,0.014-0.012,0.025-0.02,0.039C12.292,46.729,15.809,45.516,17.754,45.004z"/&gt;
+	
+		&lt;radialGradient id="collar_x5F_body_1_" cx="15.2412" cy="9.9829" r="32.4004" gradientTransform="matrix(1 0 0 -1 0.04 64.1543)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#FCB57A"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FF8C36"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="collar_x5F_body_2_" fill="url(#collar_x5F_body_1_)" stroke="#E55E03" d="M0.5,62.768c0,1.938,1.575,3.494,3.523,3.494
+		h48.51c1.947,0,3.521-1.559,3.521-3.494c0,0-1.844-6.861-6.525-11.543c-4.815-4.813-11.244-6.146-11.244-6.146
+		c-1.771,1.655-5.61,2.802-10.063,2.802c-4.453,0-8.292-1.146-10.063-2.802c0,0-5.755,0.586-11.189,6.021
+		C1.378,56.689,0.5,62.768,0.5,62.768z"/&gt;
+	
+		&lt;radialGradient id="collar_x5F_r_1_" cx="31.5801" cy="15.957" r="9.2823" gradientTransform="matrix(1 0 0 -1 0.04 64.1543)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#FCB57A"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FF8C36"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="collar_x5F_r_2_" fill="url(#collar_x5F_r_1_)" stroke="#E55E03" d="M38.159,41.381c0,0-0.574,2.369-3.013,4.441
+		c-2.108,1.795-5.783,2.072-5.783,2.072l3.974,6.217c0,0,2.957-1.637,5.009-3.848c1.922-2.072,1.37-5.479,1.37-5.479L38.159,41.381z
+		"/&gt;
+	
+		&lt;radialGradient id="collar_x5F_l_1_" cx="19.2178" cy="15.916" r="9.2843" gradientTransform="matrix(1 0 0 -1 0.04 64.1543)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#FCB57A"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FF8C36"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="collar_x5F_l_2_" fill="url(#collar_x5F_l_1_)" stroke="#E55E03" d="M18.63,41.422c0,0,0.576,2.369,3.012,4.441
+		c2.109,1.793,5.785,2.072,5.785,2.072l-3.974,6.217c0,0-2.957-1.637-5.007-3.85c-1.922-2.072-1.37-5.48-1.37-5.48L18.63,41.422z"/&gt;
+	&lt;circle id="Knob2_2_" fill="#E55E03" stroke="#E55E03" cx="28.258" cy="56.254" r="0.584"/&gt;
+	&lt;circle id="Knob1_2_" fill="#E55E03" stroke="#E55E03" cx="28.297" cy="62.499" r="0.584"/&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="3">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="57px" height="65px" viewBox="0 0 57 65" enable-background="new 0 0 57 65" xml:space="preserve"&gt;
+&lt;g&gt;
+	
+		&lt;linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="26.5796" y1="796.6533" x2="27.8207" y2="826.4517" gradientTransform="matrix(1 0 0 1 0.0801 -771.6914)"&gt;
+		&lt;stop  offset="0.2711" style="stop-color:#FFAB4F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFD28F"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path fill="url(#SVGID_1_)" stroke="#ED9135" stroke-miterlimit="10" d="M49.529,52.225c-4.396-4.396-10.951-5.884-12.063-6.109
+		V38.8H19.278c0,0,0.038,6.903,0,6.868c0,0-6.874,0.997-12.308,6.432C1.378,57.691,0.5,63.77,0.5,63.77
+		c0,1.937,1.575,3.492,3.523,3.492h48.51c1.947,0,3.521-1.558,3.521-3.492C56.055,63.768,54.211,56.906,49.529,52.225z"/&gt;
+	
+		&lt;radialGradient id="face_x5F_white_1_" cx="27.8228" cy="798.418" r="23.4236" fx="23.2533" fy="795.9283" gradientTransform="matrix(1 0 0 1 0.0801 -771.6914)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#FFD28F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFAB4F"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="face_x5F_white_3_" fill="url(#face_x5F_white_1_)" stroke="#ED9135" stroke-miterlimit="10" d="M43.676,24.357
+		c0.086,10.2-6.738,18.52-15.245,18.586c-8.504,0.068-15.468-8.146-15.554-18.344C12.794,14.4,19.618,6.079,28.123,6.012
+		C36.627,5.945,43.59,14.158,43.676,24.357z"/&gt;
+	&lt;path id="hair_x5F_gray_1_" fill="#ECECEC" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round" d="M20.278,14.25
+		c0,0,5.321,7.25,15,3.75c2.729-0.563,9.058,1.035,9.058,1.035S40.68,2.865,27.289,3.744C9.403,5.125,12.058,26.678,12.058,26.678
+		s2.768-0.684,5.036-4.802C18.068,20.106,20.278,14.25,20.278,14.25z"/&gt;
+	
+		&lt;radialGradient id="collar_x5F_body_1_" cx="15.1982" cy="829.8604" r="32.4004" gradientTransform="matrix(1 0 0 1 0.0801 -771.6914)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#B0E8FF"/&gt;
+		&lt;stop  offset="1" style="stop-color:#74AEEE"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="collar_x5F_body_3_" fill="url(#collar_x5F_body_1_)" stroke="#5491CF" d="M0.5,63.768c0,1.938,1.575,3.494,3.523,3.494
+		h48.51c1.947,0,3.521-1.559,3.521-3.494c0,0-1.844-6.861-6.525-11.543c-4.815-4.814-11.244-6.146-11.244-6.146
+		c-1.771,1.655-5.61,2.802-10.063,2.802c-4.453,0-8.292-1.146-10.063-2.802c0,0-5.755,0.586-11.189,6.021
+		C1.378,57.689,0.5,63.768,0.5,63.768z"/&gt;
+	
+		&lt;radialGradient id="collar_x5F_r_1_" cx="31.54" cy="819.9863" r="9.2835" gradientTransform="matrix(1 0 0 1 0.0801 -771.6914)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#80CCFF"/&gt;
+		&lt;stop  offset="1" style="stop-color:#74AEEE"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="collar_x5F_r_3_" fill="url(#collar_x5F_r_1_)" stroke="#5491CF" d="M38.159,42.381c0,0-0.574,2.369-3.013,4.441
+		c-2.108,1.795-5.783,2.072-5.783,2.072l3.974,6.217c0,0,2.957-1.637,5.009-3.848c1.922-2.072,1.37-5.479,1.37-5.479L38.159,42.381z
+		"/&gt;
+	
+		&lt;radialGradient id="collar_x5F_l_1_" cx="19.1777" cy="820.0273" r="9.2834" gradientTransform="matrix(1 0 0 1 0.0801 -771.6914)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#80CCFF"/&gt;
+		&lt;stop  offset="1" style="stop-color:#74AEEE"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="collar_x5F_l_3_" fill="url(#collar_x5F_l_1_)" stroke="#5491CF" d="M18.63,42.422c0,0,0.576,2.369,3.012,4.441
+		c2.109,1.793,5.785,2.072,5.785,2.072l-3.974,6.217c0,0-2.957-1.637-5.007-3.85c-1.922-2.072-1.37-5.479-1.37-5.479L18.63,42.422z"
+		/&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="4">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="57px" height="66px" viewBox="0 0 57 66" enable-background="new 0 0 57 66" xml:space="preserve"&gt;
+&lt;g&gt;
+	
+		&lt;linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="26.3799" y1="-2276.8809" x2="27.6209" y2="-2306.6792" gradientTransform="matrix(1 0 0 -1 0.2803 -2252.9199)"&gt;
+		&lt;stop  offset="0.2711" style="stop-color:#FFAB4F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFD28F"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path fill="url(#SVGID_1_)" stroke="#ED9135" stroke-miterlimit="10" d="M49.529,51.225c-4.396-4.396-10.951-5.884-12.063-6.109
+		V37.8H19.278c0,0,0.038,6.903,0,6.868c0,0-6.874,0.997-12.308,6.432C1.378,56.691,0.5,62.77,0.5,62.77
+		c0,1.938,1.575,3.492,3.523,3.492h48.51c1.947,0,3.521-1.558,3.521-3.492C56.055,62.768,54.211,55.906,49.529,51.225z"/&gt;
+	&lt;path id="body_13_" fill="#ECECEC" stroke="#9B9B9B" stroke-miterlimit="10" d="M0.5,62.768c0,1.938,1.575,3.494,3.523,3.494h48.51
+		c1.947,0,3.521-1.559,3.521-3.494c0,0-1.844-6.861-6.525-11.543c-4.815-4.813-11.244-6.146-11.244-6.146
+		c-1.771,1.655-5.61,3.802-10.063,3.802c-4.453,0-8.292-2.146-10.063-3.802c0,0-5.755,0.586-11.189,6.021
+		C1.378,56.689,0.5,62.768,0.5,62.768z"/&gt;
+	&lt;path fill="#2068A3" stroke="#2068A3" d="M28.106,33.487c-8.112,0-12.688,4.312-12.688,10.437c0,7.422,12.688,10.438,12.688,10.438
+		s14.688-3.016,14.688-10.438C42.793,38.75,36.215,33.487,28.106,33.487z M26.288,53.051c0,0-7.135-2.093-8.805-7.201
+		c-0.222-0.682,0.147-1.156,0.795-1.521V37.8h20.188v6.663c0.235,0.352,1.109,0.737,1.229,1.387
+		C40.445,49.917,26.288,53.051,26.288,53.051z"/&gt;
+	
+		&lt;radialGradient id="SVGID_2_" cx="14.2417" cy="9.1006" r="53.247" gradientTransform="matrix(1 0 0 -1 0.04 65.1543)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#74AEEE"/&gt;
+		&lt;stop  offset="1" style="stop-color:#2068A3"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path fill="url(#SVGID_2_)" stroke="#2068A3" stroke-miterlimit="10" d="M49.529,51.225c-2.239-2.24-5.041-3.724-7.396-4.67
+		c-2.854,5.51-14.022,7.807-14.022,7.807s-10.472-2.484-12.387-8.514c-2.439,0.771-5.787,2.287-8.749,5.25
+		c-5.592,5.592-6.47,11.67-6.47,11.67c0,1.938,1.575,3.492,3.523,3.492h48.51c1.947,0,3.521-1.558,3.521-3.492
+		C56.055,62.768,54.211,55.906,49.529,51.225z"/&gt;
+	&lt;path fill="#5491CF" stroke="#2068A3" d="M13.404,44.173c1.15-1.81,2.039-3.832,3.332-5.397c-0.514,1.027-1.669,4.084-1.669,5.148
+		c0,5.186,10.366,9.079,14.688,10.438c-3.472,1.627-9.134-1.498-11.335-2.36c-3.601-1.419-4.071-3.063-5.89-4.854
+		C12.523,47.135,12.878,45,13.404,44.173z"/&gt;
+	&lt;path fill="#5491CF" stroke="#2068A3" d="M45.777,43.924c-1.317-1.568-5.11-9.424-6.604-6.617c0.516,1.025,3.617,3.693,3.617,6.617
+		c0,5.186-10.27,8.576-16.698,9.145c1.429,4.938,11.372,1.293,13.804-0.313c3.563-2.354,4.563-5.133,7.854-3.705
+		C47.754,49.045,48.006,46.574,45.777,43.924z"/&gt;
+	&lt;path fill="none" stroke="#2068A3" stroke-linecap="round" d="M30.777,54.167c0.357,0.836-0.153,1.983-0.352,2.813
+		c-0.256,1.084-0.072,2.104,0.102,3.186c0.164,1.02,0.156,2.107,0.25,3.167c0.082,0.916,0.482,1.849,0.357,2.75"/&gt;
+	&lt;path fill="none" stroke="#2068A3" stroke-linecap="round" d="M23.695,53.417c-0.508,0.584-0.476,2.209-0.398,3
+		c0.116,1.183,0.456,2.099,0.333,3.333c-0.192,1.943,0.154,4.479-0.436,6.333"/&gt;
+	
+		&lt;radialGradient id="face_x5F_white_1_" cx="27.623" cy="-2278.646" r="23.425" fx="23.0534" fy="-2281.1357" gradientTransform="matrix(1 0 0 -1 0.2803 -2252.9199)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#FFD28F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFAB4F"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="face_x5F_white_3_" fill="url(#face_x5F_white_1_)" stroke="#ED9135" stroke-miterlimit="10" d="M43.676,23.357
+		c0.086,10.2-6.738,18.52-15.25,18.586c-8.5,0.068-15.464-8.146-15.55-18.344C12.794,13.4,19.618,5.079,28.123,5.012
+		C36.627,4.945,43.59,13.158,43.676,23.357z"/&gt;
+	
+		&lt;linearGradient id="face_highlight_1_" gradientUnits="userSpaceOnUse" x1="5761.7578" y1="11330.6484" x2="5785.3872" y2="11424.0977" gradientTransform="matrix(0.275 0 0 0.2733 -1558.9874 -3088.4209)"&gt;
+		&lt;stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.24"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.16"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path id="face_highlight_3_" fill="url(#face_highlight_1_)" d="M27.958,6.333c-6.035,0.047-10.747,4.493-12.787,10.386
+		c-0.664,1.919-0.294,4.043,0.98,5.629c2.73,3.398,5.729,6.283,9.461,8.088c3.137,1.518,7.535,2.385,11.893,1.247
+		c2.274-0.592,3.988-2.459,4.375-4.766c0.187-1.094,0.293-2.289,0.283-3.553C42.083,13.952,36.271,6.268,27.958,6.333z"/&gt;
+	&lt;path id="Hair_Young_Brown_1_" fill="#CC9869" stroke="#99724F" stroke-linecap="round" stroke-linejoin="round" d="M20.278,13.25
+		c3.417,4.333,9.333,6.917,9.333,6.917l-1.417-3.5c0,0,7.094,4.691,8.083,4.333c0.968-0.2-1.082-3.807-1.082-3.807
+		s3.138,1.795,4.854,3.969c1.803,2.28,4.285,3.504,4.285,3.504S47.027,2.719,27.289,2.744C8.278,2.709,12.058,27.678,12.058,27.678
+		L14.695,17c0,0,0.914,5.757,1.399,4.875C17.861,15.211,18.861,11.5,20.278,13.25z"/&gt;
+	&lt;path fill="#4B4B4B" stroke="#4B4B4B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M28.105,2
+		C22.464,2,20.2,4.246,18.13,5.533C29.753,2.865,41.152,10.375,44.46,20.5C44.459,16.875,44.459,2,28.105,2z"/&gt;
+	&lt;path fill="#9B9B9B" stroke="#4B4B4B" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M11.151,17.751
+		C12.878,8.25,18.686,6.309,25.273,7.127C31.295,7.875,36.93,10.491,44.459,20.5C37.777,7.125,20.278-3.375,9.903,3.921
+		C5.569,6.97,4.903,13.375,11.151,17.751z"/&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="5" type="java.awt.image.BufferedImage">iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAL90lEQVR42u2de3BU1R3Hry3Qx4y1&#13;
+2mlrH7QWrdP/+xpUtK1VWkutRam2IBCIdabTmU4pnU6njJKgEa1FIOIDi9UZiw4oDyEgmIQkJm5S&#13;
+SALZYB67yS4J2eze7O7dh0Dr2J7+fjc3m31ls3f3nnvPufecmd/sJoRs7vl+7u/8zu+ec36SZMOW&#13;
+SCQ+E4lEbgCrCIfDm+F1D9hxMNfExEQvmB8sAvYB2H/h+5fgNQavAVmW3fB/mrT/8yS8/200Gr1D&#13;
+UZRrJNHYayDOFWA/BbGeArHaQMAwvCeULA6gtOJngd0D778gFDC5+Xy+j0PnL9bu7H+BCB9SFLwY&#13;
+6wPbAnYbIWSeUIhCg469DO7yRSD2C5qrJiwa/G0KvP4D7EfwN88RypXZwJ1fB51ZDR07zKroBSwA&#13;
+0NbEYrEFQkmdTQvg6jgUPZ9X+B8MV4cgiLxFKDtLg476Idw1J+wg/Ax2Eq5viVA6N5K/Azqn3cbC&#13;
+Z1s7wH6r44WH8fFr6B4dJHyGwbW/CXHO150Y1c+Di98AnXDRqeKnxQj/AQ/4KE5vHTPOw4UPOF34&#13;
+PDYAgeLNtr7r4SK3CaELzxjA/ma7hBKO9RgBC5GLtm7wlN+wy5z+bpazdwxbAiBYyrPL/6hw+YbM&#13;
+FDZjKpy7BzYQ2R4QAhpmr4+Ojn6CC/Ehkv00/MEtQjTDzYXrHJgWH5+Pg8vqEWJRmyX0yrJ8NauR&#13;
+/rUgvk8IRddgaPXA63wW73whvnk2yIwnwDFfuH1rhgPLYwJteZYI+Cwy8ALvWvYMAef5MB4dFEJY&#13;
+bnstyROA+NtF5zMTGD5qenpXdDxzy87uMmu6t8A2uf3xsyQaHLALCLhn4Xrqj3TB3ZyyhfC9W4ji&#13;
+WkWU9tUkerbWFiCANp2g0Vwx7hcjvGtlptkEBBgKHqc17t9uS+FzbBWAsJ1bEHCvI9yoNxrt+j+G&#13;
+2Sd7C28rEN4zdFUR/MKHuOqAQG8ZwtsGhI2GRf24fdp5wnMPwiVcimfE3X/Y2cLnAaEXQejnYiFJ&#13;
+uVH/T1i+QGWskySHXibxrj+aIDyfIJS11Bz337Mq/PvDr5BLo/vA9qt2wft3AGG9ACHXWmwz7VPG&#13;
+unKEz7YL3l0ChFy7rRQAmnkSXoBQMDfQqnfsv4ml4C7Zs5Fc9O8uWvwMEIZgaOi2BgQFZw3jfayA&#13;
+sFDPEq+jbET1manapFuAUIa9Uaz41zMlfJ6cfdJdBSC8WiIILwAIf3AcCNpxePOLcf+PMCk8DRC6&#13;
+HAfCw7Pl/C/DQxSZFj7LYqmhoUQQvM4BAbQdAY0/Usj9f48X4e0FwjbTQAiHwz8oNPXbxZvwM4Jw&#13;
+rhwQ1tkZhOfyio+bD3FZEZUPPX+auvD5QajiFIStJEIJBPAAMq7onumkLiofer5tHRl+aykJNv/S&#13;
+9A7lDYRI2wrop3vJhLuW5tKxRfnc/19pAuCp+7lq1oFQQRK91QDCa0yCMCX8+Illqk30UgWgJp8H&#13;
+6KQGQPuGFAAChEwLty4nwaZp4VMA9O+megRN9qKPK7VEAR0ATtbkAMA/CDtJvHOd4cKnAPAeprqP&#13;
+IB6PX5V+dNtdNCPPQgA4DYRwlqu3AgBtGFhi2nLvYgCYBuFujkH4fdnCmwUA3PSPpQeA7awAwAQI&#13;
+7mpyqeRZQyYIkbblJKRDeLMAAKtPzwAqrAHAOwjJvq0lCW+iB5BV8YPB4Odopx/LAYA7EM7tIYnB&#13;
+50l84HkQ8hfMAoAWCoU+j+P/Ih4ASAch1GIVCJsKgpD0vkTigztV8XkAADz/93H8r+QJAGZA8E8H&#13;
+ixd8u0nC82JKeF4AAFtDNQNIEwCrQYi2rSKJvqcnl6VnCc8RANUIwD6eATAbhEjrChLSEjjR09Uz&#13;
+is8DADD8v4wxQKMdAKANQrrwU8Y7ABADHJHMOMbdTACMBiHSOvM8nncAcOOPpFW+tB0A5YJQSHgb&#13;
+ATCEAJy3MwB6QdCTubMBAOMStVVAjAEwGwilpGxtEANEJJqPgVkEIBuEUnP1NvEA70tmVN9mEYAp&#13;
+K1Ug2wDgtCGANgDRnhoy4foNmTi5now3LWN/CHBKEGgGAMrZLWS8+b6yfqfJHiBg+2kgTQAmOn5H&#13;
+Iqer1LtecT9Ogi33GyK+WQCEw2GvKaeA2BUAmmaSB+hAABoEAM4EYCoV/IYAwLEe4CUE4AkBgGMB&#13;
+qEIA1goAnAkABIGrTTkPSADAJgCKotwiJZPJz/IAwFj3DhIaPESGGx4UABhkqP3UsvAo6wBEzp8i&#13;
+iUSCxOMKCXnqDAPBwQAE0zeGuNgHoFMFYMqmQfi1AKA0O54OwFbeADAKBKcCkFFpDIaAO3kBIBYZ&#13;
+U2OBeCxqCAgOBuDH6ZtDr6D5WNhIAJQJP/EeXUaG6ytJcGD/DCAcLhoEJwKA28Ox5G/2CSEneRkC&#13;
+ouNnyUjHI/D9pRoIB/KDAJ5iqH6tACD37j+Vc0IIVpviAYB4bPK0MXwfCbjJSPsm9d9R6ODAQVX4&#13;
+dBBikQAZfrtCAJBpm/KdEbSYBwCioQH163PvPkyigTOT30MQXNUaCJUklAVCoOdFAUCmB7gxb2Uw&#13;
+WtvE5XMdxN/4QFkAhEc6UoLKQ8dSY/yIa2MaCD3wdZX6ff87f0r9fLDvdX4AaLqXhE5vIeHgELX5&#13;
+f95j4jQvsJPqduShE8RXIgiBnl15x/jh+gfygHCGjHXVTgPQzwEAqvBPkXCgn3b+f0ehg6IXmfAE&#13;
+CkBoABAqdQHgPXIPCfXvKxDsVWogVBFFHsr4GaYBQOHP0Be+qBpCeFg07hYx6/BiBMGvEwQM9kJ5&#13;
+gj0VBPg+/vtoRw37ADTdB8JvNU147e73ocazlYqpMvsY80kQ1uoEAYK9wTdzQQAPwbQHUIXfRsLj&#13;
+5tcfBAA2zFovQJbl66wqGBHy1hN/wxp9GzwgBlAzg1kgMAcACC+rwg9aVTDiQwDgS1wUiwx5jwMI&#13;
++jwCzgpmAsFSACwWPs326KkYtpCFQkeTIKzRD4KnLgMESwBA4Xu2syD8lPv/tt7KYY0s/OFoQc8x&#13;
+4muo0AnCgykQxs7sNA8AVfhaZoTXxG/SXTcQK0uwVgAx6DlKfPX6QPAeW6E+M6AOQEp4D3OFI9XT&#13;
+wEqsHupi7WLUocHzlm6PQAsAPLtQ7nmaSeG1tG9jObWDF7N4USkQBo8ACKstAUAV3r2DhINe1iuI&#13;
+Lyy3gvgB1sukqyDUV5gCAAofwjuefeHRXpXKbYqifBV+0QUOLhZAqAMQVlMBYFL4HbwIj3axqEKR&#13;
+RQaEf+bkorUYoY7461cZAkCw+Vcg/DM0n87Rivz/IhnVCCHzzNhGbrxHOER8b68sCQBVePczJBIc&#13;
+JrxdN4jfA5rNlYxsOC3EtWS8dYY6fRw4CEPDyuIAaAJX736WS+HTUr7flWg0+IAneeyUaRAOAAj3&#13;
+5wegCaP650gkNEx4vsa8y70MHArmspob0AVC3/7U0GAj4dFcoNEciWbDWQHtrWRmxgiRkM8OwqPr&#13;
+j8ZisQWSGQ3GmJ/ZodPsYhibYeVXyczGezxgM3tIMrthHXr44L2i8y2f8r0iWdVwKTlLj40daM2Y&#13;
+o5GsbPBHfAoo7BJimG7dOfv7rGpYfgwPHRSimGbvpU73YKUBjdfAcOAR4lC3Poj6vyix2LAIJc0y&#13;
+9MIi3czd+dkN6LzcjNNHnRjwMTPmFzM7wGXIQjTjpnqWR/sl5gme4PUJIisZPkuSPEY2iAmWYGEC&#13;
+Iaj+3L7p6V2KuYL54MbahLBFW7tpD3ZMHBLm4DE0YkgovJgD6/lSf6Rrcb7gZrjQXiF47jIuait5&#13;
+WPQGcNHrwZJC/MhFXMBp+Bo+HhpuV3byE0XwhK9BoPcVyelN24fY7BThQfQT8HqDJFrOlPEmuCuO&#13;
+2lj8FoD9VqH07Onkb0Jn7bPDjEGL7Pc6JsAzegEqBkjQgf0cCu/HLB7Yl4WSxsQJ34EhonZiMq3I&#13;
+6lROBnsW9+NjKlyoRmcKORdr3eBpZtDR74B9YHGuvhvArMEzFmc8gVM0ei0QCHwSRLgd7rzN2vrE&#13;
+MYqCY4K+ET7rMXzGEY/HrxIKsBlEXg72LRBpOaZWQbB/aiefNeP6RW3lUhC3vcPX/8YK6ui+cdzW&#13;
+FrQcw0ewWFUD3ldi5C7L8tV27Kv/A/UXT5Vy95hXAAAAAElFTkSuQmCC</y:Resource>
+      <y:Resource id="6">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="57px" height="65px" viewBox="0 0 57 65" enable-background="new 0 0 57 65" xml:space="preserve"&gt;
+&lt;g&gt;
+	
+		&lt;radialGradient id="neck_x5F_white_1_" cx="27.8696" cy="-2299.3257" r="11.4448" fx="25.6369" fy="-2300.5422" gradientTransform="matrix(1 0 0 -1 0.2803 -2253.9199)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#B38E5D"/&gt;
+		&lt;stop  offset="1" style="stop-color:#805126"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="neck_x5F_white_2_" fill="url(#neck_x5F_white_1_)" stroke="#5B453B" stroke-miterlimit="10" d="M19.278,37.799h18.188
+		v13.23c-1.313,0.371-17.173,0.436-18.188,0.172V37.799z"/&gt;
+	
+		&lt;radialGradient id="SVGID_1_" cx="27.3228" cy="-2307.6812" r="31.0537" fx="21.2648" fy="-2310.9819" gradientTransform="matrix(1 0 0 -1 0.2803 -2253.9199)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#B38E5D"/&gt;
+		&lt;stop  offset="1" style="stop-color:#805126"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path fill="url(#SVGID_1_)" stroke="#5B453B" stroke-miterlimit="10" d="M49.529,51.225c-4.396-4.396-10.951-5.884-12.063-6.109
+		V37.8H19.278c0,0,0.038,6.903,0,6.868c0,0-6.874,0.997-12.308,6.432C1.378,56.691,0.5,62.77,0.5,62.77
+		c0,1.938,1.575,3.492,3.523,3.492h48.51c1.947,0,3.521-1.558,3.521-3.492C56.055,62.768,54.211,55.906,49.529,51.225z"/&gt;
+	
+		&lt;linearGradient id="body_1_" gradientUnits="userSpaceOnUse" x1="59.7656" y1="2374.7451" x2="-3.673" y2="2374.7451" gradientTransform="matrix(1 0 0 1 0.2402 -2319.0742)"&gt;
+		&lt;stop  offset="0" style="stop-color:#49AD33"/&gt;
+		&lt;stop  offset="1" style="stop-color:#C2DA92"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path id="body_12_" fill="url(#body_1_)" stroke="#008D33" d="M0.5,62.768c0,1.938,1.575,3.494,3.523,3.494h48.51
+		c1.947,0,3.521-1.559,3.521-3.494c0,0-1.844-6.861-6.525-11.543c-4.815-4.813-11.244-6.146-11.244-6.146
+		c-1.771,1.655-5.61,3.802-10.063,3.802c-4.453,0-8.292-2.146-10.063-3.802c0,0-5.755,0.586-11.189,6.021
+		C1.378,56.689,0.5,62.768,0.5,62.768z"/&gt;
+	&lt;path fill="#2068A3" stroke="#2068A3" d="M28.106,33.486c-8.112,0-12.688,4.313-12.688,10.438c0,7.422,12.688,10.438,12.688,10.438
+		s14.688-3.016,14.688-10.438C42.793,38.75,36.215,33.486,28.106,33.486z M26.288,53.051c0,0-7.135-2.093-8.805-7.201
+		c-0.222-0.682,0.147-1.156,0.795-1.521V37.8h20.188v6.663c0.235,0.352,1.109,0.737,1.229,1.387
+		C40.445,49.917,26.288,53.051,26.288,53.051z"/&gt;
+	&lt;path fill="#5491CF" stroke="#2068A3" stroke-miterlimit="10" d="M49.529,51.225c-2.239-2.24-5.041-3.724-7.396-4.67
+		c-2.854,5.51-14.022,7.807-14.022,7.807s-10.472-2.484-12.387-8.514c-2.439,0.771-5.787,2.287-8.749,5.25
+		c-5.592,5.592-6.47,11.67-6.47,11.67c0,1.938,1.575,3.492,3.523,3.492h48.51c1.947,0,3.521-1.558,3.521-3.492
+		C56.055,62.768,54.211,55.906,49.529,51.225z"/&gt;
+	&lt;path fill="#5491CF" stroke="#2068A3" d="M13.404,44.173c1.15-1.81,2.039-3.832,3.332-5.397c-0.514,1.027-1.669,4.084-1.669,5.148
+		c0,5.186,10.366,9.079,14.688,10.438c-3.472,1.627-9.134-1.498-11.335-2.36c-3.601-1.419-4.071-3.063-5.89-4.854
+		C12.523,47.135,12.878,45,13.404,44.173z"/&gt;
+	&lt;path fill="#5491CF" stroke="#2068A3" d="M45.777,43.924c-1.317-1.568-5.11-9.424-6.604-6.617c0.516,1.025,3.617,3.693,3.617,6.617
+		c0,5.186-10.27,8.576-16.698,9.145c1.429,4.938,11.372,1.293,13.804-0.313c3.563-2.354,4.563-5.133,7.854-3.705
+		C47.754,49.045,48.006,46.574,45.777,43.924z"/&gt;
+	&lt;path fill="none" stroke="#2068A3" stroke-linecap="round" d="M30.777,54.167c0.357,0.836-0.153,1.983-0.352,2.813
+		c-0.256,1.084-0.072,2.104,0.102,3.186c0.164,1.02,0.156,2.107,0.25,3.167c0.082,0.916,0.482,1.849,0.357,2.75"/&gt;
+	&lt;path fill="none" stroke="#2068A3" stroke-linecap="round" d="M23.695,53.417c-0.508,0.584-0.476,2.209-0.398,3
+		c0.116,1.183,0.456,2.099,0.333,3.333c-0.192,1.943,0.154,4.479-0.436,6.333"/&gt;
+	
+		&lt;radialGradient id="face_x5F_white_1_" cx="27.623" cy="-2279.646" r="23.425" fx="23.0534" fy="-2282.1357" gradientTransform="matrix(1 0 0 -1 0.2803 -2253.9199)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#B38E5D"/&gt;
+		&lt;stop  offset="1" style="stop-color:#805126"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="face_x5F_white_2_" fill="url(#face_x5F_white_1_)" stroke="#5B453B" stroke-miterlimit="10" d="M43.676,23.357
+		c0.086,10.2-6.738,18.52-15.25,18.586c-8.5,0.068-15.464-8.146-15.55-18.344C12.794,13.4,19.618,5.079,28.123,5.012
+		C36.627,4.945,43.59,13.158,43.676,23.357z"/&gt;
+	
+		&lt;linearGradient id="face_highlight_1_" gradientUnits="userSpaceOnUse" x1="5761.7578" y1="11331.9785" x2="5785.3872" y2="11425.4277" gradientTransform="matrix(0.275 0 0 0.2733 -1558.9874 -3088.7842)"&gt;
+		&lt;stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.42"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.12"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path id="face_highlight_2_" fill="url(#face_highlight_1_)" d="M27.958,6.333c-6.035,0.047-10.747,4.493-12.787,10.386
+		c-0.664,1.919-0.294,4.043,0.98,5.629c2.73,3.398,5.729,6.283,9.461,8.088c3.137,1.518,7.535,2.385,11.893,1.247
+		c2.274-0.592,3.988-2.459,4.375-4.766c0.187-1.094,0.293-2.289,0.283-3.553C42.083,13.952,36.271,6.268,27.958,6.333z"/&gt;
+	&lt;path id="Hair_Young_Black_1_" fill="#4B4B4B" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M20.278,13.25
+		c3.417,4.333,9.333,6.917,9.333,6.917l-1.417-3.5c0,0,7.094,4.691,8.083,4.333c0.968-0.2-1.082-3.807-1.082-3.807
+		s3.138,1.795,4.854,3.969c1.803,2.28,4.285,3.504,4.285,3.504S47.027,2.719,27.289,2.744C8.278,2.709,12.058,27.678,12.058,27.678
+		L14.695,17c0,0,0.914,5.757,1.399,4.875C17.861,15.211,18.861,11.5,20.278,13.25z"/&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="7" type="java.awt.image.BufferedImage">iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADCUlEQVR42u2ZO28TQRCAjUACBALx&#13;
+fjUR0IAQUmLf7Tk8dFLsnTvbu3sOHB3gig7Eq4ACQUMXQJAGCiAUNFQQQIiHwOIl0VFBh0SF4Fdk&#13;
+xnbC+ZHcRbbJnriVRpez17vzzczO7mxSqaQlLWl9aWZeZhiotxaoNxaIodgBkOLDvLzRKBQ2E0is&#13;
+lGcjchN64A899+XlVgPE7wOuv2FBlEnn/NUMvHOW412JIDZKhTnqo8nlccbVawO8V/SZCfIDPRt9&#13;
+QseiOWnu7q0J6gEOdrQxcZgMoOJVI3doe+s4w663g76jPlHGIgPgc6L7xYiT1mK608TgHWlYuxqU&#13;
+ucZqEvQKeulwJ0ME5+4VALl2osnVoH52E9vZUmkbevhHS/jU5ugXgN0UXlz9arPqPIWM0JS9Gmvk&#13;
+nwD0Jf0mAAnAfwBgcnWGxsOxLzPXXRUrANw3Crgx3rW4d9J0xOSCeyDqzkoyUKksYzn5Pgv+WpZX&#13;
+z6xceZcOAO0bXKezDVfnTVDHmCMvMi7zhiPv0ElVF4DQ0HJddylCfN7L+Qo6QmRcOYjvF7QBQOu+&#13;
+yID4hkeD7xjfbns/eZZx7wR5gRZvUFEtACieDVBPzJHyOhNKn2zbXtJ0JMdDn237KxmIL+QF7QBq&#13;
+fR11KwvSwSxzmrJMoDq7ih4YpZAhL7Qqqg1ALbugpbO+v5y8QO9pGN1C5WVaiPW0BnzfX6wtQP1d&#13;
+nSLBhVokjzAubhtcHkTlb5q8XOqkqFYAFPvT1rdAPsWQeYxhtRM983I2RbVLo5SFsFobp4Wd4eU9&#13;
++PcjBEnHBqC+oMUkc9Vu5grLAvFwLkW1BCDrm1w8r11sNWrcWAHU06c3zkCOhR2btQWghby/WFyj&#13;
+PQBa+et8i3n6jRYAcarIKiHH5orWANNeaFwPdroKrGoPEIj5sbB+2gLMBhErgJlwAu9abAH+ZiZ1&#13;
+PbYAgXC6EVuAYHbSEsDIi3eRLqywXOz2qn3myr2+pyyKOneodbFYvxfxf2Q9EwbqPtbWl3qzvYMY&#13;
+inr71ivJunIwlbSk9b9NAfQA+tJSsAFZAAAAAElFTkSuQmCC</y:Resource>
+      <y:Resource id="8" type="java.awt.image.BufferedImage">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&#13;
+rUfrYe34Pw7saC4pbj/zAAAAAElFTkSuQmCC</y:Resource>
+      <y:Resource id="9">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="59px" height="59px" viewBox="0 0 59 59" enable-background="new 0 0 59 59" xml:space="preserve"&gt;
+&lt;g&gt;
+	
+		&lt;linearGradient id="neck_x5F_white_1_" gradientUnits="userSpaceOnUse" x1="13.6323" y1="-1502.7422" x2="14.3617" y2="-1520.2559" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)"&gt;
+		&lt;stop  offset="0.2711" style="stop-color:#FFAB4F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFD28F"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path id="neck_x5F_white_19_" fill="url(#neck_x5F_white_1_)" stroke="#FFAB4F" stroke-width="0.5" stroke-miterlimit="10" d="
+		M9.639,18.899h9.093v10.115c-0.656,0.186-8.586,0.218-9.093,0.086V18.899z"/&gt;
+	
+		&lt;linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="13.1294" y1="-1499.207" x2="13.75" y2="-1514.1072" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)"&gt;
+		&lt;stop  offset="0.2711" style="stop-color:#FFAB4F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFD28F"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path fill="url(#SVGID_1_)" stroke="#ED9135" stroke-width="0.5" stroke-miterlimit="10" d="M24.766,25.612
+		c-2.199-2.197-5.477-2.941-6.033-3.055v-3.658H9.639c0,0,0.019,3.452,0,3.435c0,0-3.437,0.499-6.154,3.216
+		c-2.796,2.796-3.235,5.835-3.235,5.835c0,0.971,0.788,1.746,1.762,1.746h24.255c0.974,0,1.761-0.777,1.761-1.746
+		C28.027,31.384,27.105,27.953,24.766,25.612z"/&gt;
+	
+		&lt;radialGradient id="face_x5F_white_1_" cx="13.7515" cy="-1500.0908" r="11.7123" fx="11.4666" fy="-1501.3357" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#FFD28F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFAB4F"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="face_x5F_white_19_" fill="url(#face_x5F_white_1_)" stroke="#ED9135" stroke-width="0.5" stroke-miterlimit="10" d="
+		M21.838,11.679c0.043,5.1-3.369,9.26-7.623,9.293C9.964,21.006,6.483,16.899,6.44,11.8c-0.042-5.1,3.37-9.261,7.622-9.294
+		C18.314,2.473,21.795,6.579,21.838,11.679z"/&gt;
+	
+		&lt;linearGradient id="face_highlight_1_" gradientUnits="userSpaceOnUse" x1="4300.0391" y1="8522.0703" x2="4311.8545" y2="8568.7988" gradientTransform="matrix(0.275 0 0 0.2733 -1169.7629 -2324.9595)"&gt;
+		&lt;stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.24"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.16"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path id="face_highlight_19_" fill="url(#face_highlight_1_)" d="M13.979,3.166c-3.018,0.023-5.374,2.247-6.394,5.193
+		c-0.332,0.96-0.147,2.021,0.49,2.814c1.365,1.699,2.865,3.142,4.73,4.044c1.569,0.759,3.767,1.192,5.946,0.624
+		c1.139-0.297,1.994-1.229,2.188-2.383c0.092-0.548,0.146-1.145,0.143-1.777C21.041,6.977,18.137,3.134,13.979,3.166z"/&gt;
+	
+		&lt;path id="Hair_Female_1_Black_9_" fill="#4B4B4B" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+		M14.187,0.25c-5.418,0-10.052,3.624-9.61,12.813c0.282,3.281,2.931,6.021,4.683,6.766C7.795,14.344,9.107,7.317,8.967,7.064
+		c-0.14-0.252,1.769,3.364,1.769,3.364l1.591-4.155c2.771,2.14,0.197,5.654,0.524,5.528c2.129-0.815,2.67-4.614,2.67-4.614
+		s1.364,1.829,1.35,2.752c-0.025,1.781,1.098-3.033,1.098-3.033l0.514,1.016c3.363,4.911,1.842,8.104,0.826,11.391
+		c7.834-0.352,6.146-5.24,4.83-9.203C21.795,3.046,19.604,0.25,14.187,0.25z"/&gt;
+	
+		&lt;linearGradient id="body_1_" gradientUnits="userSpaceOnUse" x1="53.4854" y1="2393.7295" x2="21.2897" y2="2393.7295" gradientTransform="matrix(0.9852 0 0 0.9852 -22.6981 -2330.2188)"&gt;
+		&lt;stop  offset="0" style="stop-color:#49AD33"/&gt;
+		&lt;stop  offset="1" style="stop-color:#C2DA92"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path id="body_63_" fill="url(#body_1_)" stroke="#008D33" stroke-width="0.5" d="M0.25,31.384c0,0.97,0.788,1.747,1.762,1.747
+		h24.255c0.974,0,1.761-0.779,1.761-1.747c0,0-0.922-3.431-3.262-5.771c-2.408-2.406-4.123-2.572-4.123-2.572
+		c-0.723,3.491-4.277,4.393-6.503,4.393c-2.227,0-5.75-0.994-6.06-4.393c0,0-1.877-0.207-4.594,2.51
+		C0.689,28.345,0.25,31.384,0.25,31.384z"/&gt;
+	
+		&lt;linearGradient id="neck_x5F_white_3_" gradientUnits="userSpaceOnUse" x1="43.8525" y1="-1502.7417" x2="44.5819" y2="-1520.2552" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)"&gt;
+		&lt;stop  offset="0.2711" style="stop-color:#FFAB4F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFD28F"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path id="neck_x5F_white_17_" fill="url(#neck_x5F_white_3_)" stroke="#FFAB4F" stroke-width="0.5" stroke-miterlimit="10" d="
+		M39.859,18.899h9.094v10.115c-0.656,0.186-8.586,0.218-9.094,0.086V18.899z"/&gt;
+	
+		&lt;linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="43.3506" y1="-1499.2075" x2="43.9712" y2="-1514.1077" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)"&gt;
+		&lt;stop  offset="0.2711" style="stop-color:#FFAB4F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFD28F"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path fill="url(#SVGID_2_)" stroke="#ED9135" stroke-width="0.5" stroke-miterlimit="10" d="M54.986,25.612
+		c-2.199-2.197-5.478-2.941-6.033-3.055v-3.658h-9.094c0,0,0.02,3.452,0,3.435c0,0-3.438,0.499-6.153,3.216
+		c-2.796,2.796-3.235,5.835-3.235,5.835c0,0.971,0.787,1.746,1.762,1.746h24.256c0.974,0,1.761-0.777,1.761-1.746
+		C58.248,31.384,57.326,27.953,54.986,25.612z"/&gt;
+	
+		&lt;radialGradient id="face_x5F_white_3_" cx="43.9727" cy="-1500.0908" r="11.7111" fx="41.6881" fy="-1501.3356" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#FFD28F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFAB4F"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="face_x5F_white_17_" fill="url(#face_x5F_white_3_)" stroke="#ED9135" stroke-width="0.5" stroke-miterlimit="10" d="
+		M52.059,11.679c0.043,5.1-3.369,9.26-7.623,9.293c-4.25,0.034-7.731-4.073-7.774-9.172c-0.042-5.1,3.368-9.261,7.622-9.294
+		C48.536,2.473,52.016,6.579,52.059,11.679z"/&gt;
+	
+		&lt;linearGradient id="face_highlight_3_" gradientUnits="userSpaceOnUse" x1="4409.9326" y1="8522.0703" x2="4421.7476" y2="8568.7969" gradientTransform="matrix(0.275 0 0 0.2733 -1169.7629 -2324.9595)"&gt;
+		&lt;stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.24"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.16"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path id="face_highlight_17_" fill="url(#face_highlight_3_)" d="M44.2,3.166c-3.019,0.023-5.374,2.247-6.394,5.193
+		c-0.332,0.96-0.147,2.021,0.489,2.814c1.364,1.699,2.864,3.142,4.729,4.044c1.568,0.759,3.768,1.192,5.945,0.624
+		c1.139-0.297,1.994-1.229,2.188-2.383c0.092-0.548,0.146-1.145,0.143-1.777C51.262,6.977,48.357,3.134,44.2,3.166z"/&gt;
+	
+		&lt;path id="hair_x5F_gray_17_" fill="#ECECEC" stroke="#9B9B9B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+		M40.359,6.625c0,0,2.66,3.625,7.5,1.875c1.365-0.281,4.529,0.518,4.529,0.518s-1.828-8.085-8.523-7.646
+		c-8.943,0.69-7.615,11.467-7.615,11.467s1.384-0.342,2.518-2.401C39.255,9.553,40.359,6.625,40.359,6.625z"/&gt;
+	
+		&lt;radialGradient id="collar_x5F_body_2_" cx="37.6602" cy="-1515.813" r="16.2003" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#B0E8FF"/&gt;
+		&lt;stop  offset="1" style="stop-color:#74AEEE"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="collar_x5F_body_8_" fill="url(#collar_x5F_body_2_)" stroke="#5491CF" stroke-width="0.5" d="M30.471,31.384
+		c0,0.97,0.787,1.747,1.762,1.747h24.256c0.974,0,1.761-0.779,1.761-1.747c0,0-0.922-3.431-3.263-5.771
+		c-2.407-2.406-5.623-3.072-5.623-3.072c-0.885,0.827-2.805,1.4-5.03,1.4s-4.146-0.573-5.031-1.4c0,0-2.878,0.293-5.595,3.01
+		C30.91,28.345,30.471,31.384,30.471,31.384z"/&gt;
+	
+		&lt;radialGradient id="collar_x5F_r_2_" cx="45.8311" cy="-1510.8745" r="4.6401" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#80CCFF"/&gt;
+		&lt;stop  offset="1" style="stop-color:#74AEEE"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="collar_x5F_r_8_" fill="url(#collar_x5F_r_2_)" stroke="#5491CF" stroke-width="0.5" d="M49.301,20.69
+		c0,0-0.287,1.185-1.506,2.221c-1.055,0.897-2.893,1.036-2.893,1.036l1.986,3.108c0,0,1.479-0.818,2.504-1.924
+		c0.961-1.036,0.686-2.74,0.686-2.74L49.301,20.69z"/&gt;
+	
+		&lt;radialGradient id="collar_x5F_l_2_" cx="39.6494" cy="-1510.896" r="4.6426" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#80CCFF"/&gt;
+		&lt;stop  offset="1" style="stop-color:#74AEEE"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="collar_x5F_l_8_" fill="url(#collar_x5F_l_2_)" stroke="#5491CF" stroke-width="0.5" d="M39.536,20.711
+		c0,0,0.288,1.185,1.506,2.221c1.056,0.896,2.894,1.036,2.894,1.036l-1.987,3.108c0,0-1.479-0.818-2.505-1.925
+		c-0.961-1.036-0.685-2.74-0.685-2.74L39.536,20.711z"/&gt;
+	
+		&lt;radialGradient id="Knob2_2_" cx="44.0645" cy="-742.6421" r="0.4846" gradientTransform="matrix(1 0 0 -1 0.1201 -714.5371)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#80CCFF"/&gt;
+		&lt;stop  offset="1" style="stop-color:#74AEEE"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;circle id="Knob2_8_" fill="url(#Knob2_2_)" stroke="#5491CF" stroke-width="0.5" cx="44.35" cy="28.127" r="0.292"/&gt;
+	
+		&lt;radialGradient id="Knob1_2_" cx="44.083" cy="-745.7642" r="0.4847" gradientTransform="matrix(1 0 0 -1 0.1201 -714.5371)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#80CCFF"/&gt;
+		&lt;stop  offset="1" style="stop-color:#74AEEE"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;circle id="Knob1_8_" fill="url(#Knob1_2_)" stroke="#5491CF" stroke-width="0.5" cx="44.369" cy="31.25" r="0.292"/&gt;
+	
+		&lt;radialGradient id="jacket_x5F_body_1_" cx="36.7842" cy="-1515.3755" r="20.459" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#D0D0D0"/&gt;
+		&lt;stop  offset="1" style="stop-color:#9B9B9B"/&gt;
+	&lt;/radialGradient&gt;
+	
+		&lt;path id="jacket_x5F_body_8_" fill="url(#jacket_x5F_body_1_)" stroke="#4B4B4B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+		M54.986,25.612c-2.217-2.217-5.111-2.955-5.557-3.059l-2.695,10.572h-4.43L39.686,22.84c-0.145-0.096-0.271-0.196-0.385-0.301
+		c0,0-2.877,0.293-5.595,3.01c-2.796,2.796-3.233,5.835-3.233,5.835c0,0.97,0.786,1.747,1.76,1.747h24.256
+		c0.975,0,1.761-0.779,1.761-1.747C58.248,31.384,57.326,27.953,54.986,25.612z"/&gt;
+	
+		&lt;polygon id="jacket_x5F_r_8_" fill="#9B9B9B" stroke="#4B4B4B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" points="
+		49.688,21.038 51.305,23.187 50.615,27.835 48.914,28.25 49.547,29.563 47.509,33.126 46.734,33.126 	"/&gt;
+	
+		&lt;polygon id="jacket_x5F_l_8_" fill="#B2B2B2" stroke="#4B4B4B" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" points="
+		39.354,21.038 37.734,23.187 38.426,27.835 40.127,28.25 39.493,29.563 41.531,33.126 42.307,33.126 	"/&gt;
+	&lt;path id="path5135_8_" fill="#D54A30" stroke="#B51A19" stroke-width="0.5" d="M43.936,27.61c0,0-0.926,1.028-1.041,3.271
+		c-0.115,2.244,0,2.244,0,2.244h3.273c0,0,0.115,0.031-0.077-2.182c-0.2-2.302-1.194-3.334-1.194-3.334L43.936,27.61L43.936,27.61z"
+		/&gt;
+	&lt;path id="path5131_8_" fill="#D54A30" stroke="#B51A19" stroke-width="0.5" d="M44.377,24.34h0.063l1.275,2.001
+		c0.258,0.477-0.604,0.898-0.729,1.274l-1.139-0.008c-0.121-0.38-1.129-0.683-0.738-1.292L44.377,24.34z"/&gt;
+	
+		&lt;linearGradient id="neck_x5F_white_4_" gradientUnits="userSpaceOnUse" x1="43.6328" y1="-1527.7417" x2="44.3621" y2="-1545.2545" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)"&gt;
+		&lt;stop  offset="0.2711" style="stop-color:#FFAB4F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFD28F"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path id="neck_x5F_white_11_" fill="url(#neck_x5F_white_4_)" stroke="#FFAB4F" stroke-width="0.5" stroke-miterlimit="10" d="
+		M39.639,43.898h9.094v10.115c-0.655,0.187-8.586,0.219-9.094,0.086V43.898z"/&gt;
+	
+		&lt;linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="43.1309" y1="-1524.2065" x2="43.7515" y2="-1539.1072" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)"&gt;
+		&lt;stop  offset="0.2711" style="stop-color:#FFAB4F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFD28F"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path fill="url(#SVGID_3_)" stroke="#ED9135" stroke-width="0.5" stroke-miterlimit="10" d="M54.766,50.611
+		c-2.199-2.196-5.477-2.94-6.033-3.055v-3.658h-9.094c0,0,0.021,3.453,0,3.436c0,0-3.437,0.499-6.152,3.216
+		c-2.797,2.796-3.235,5.835-3.235,5.835c0,0.971,0.787,1.746,1.763,1.746h24.254c0.975,0,1.762-0.777,1.762-1.746
+		C58.027,56.384,57.105,52.953,54.766,50.611z"/&gt;
+	
+		&lt;radialGradient id="face_x5F_white_4_" cx="43.752" cy="-1525.0908" r="11.7114" fx="41.4673" fy="-1526.3356" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#FFD28F"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFAB4F"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="face_x5F_white_11_" fill="url(#face_x5F_white_4_)" stroke="#ED9135" stroke-width="0.5" stroke-miterlimit="10" d="
+		M51.838,36.68c0.043,5.1-3.369,9.26-7.623,9.293c-4.251,0.033-7.732-4.074-7.775-9.173c-0.041-5.1,3.369-9.261,7.623-9.294
+		C48.314,27.473,51.795,31.579,51.838,36.68z"/&gt;
+	
+		&lt;linearGradient id="face_highlight_4_" gradientUnits="userSpaceOnUse" x1="4409.1299" y1="8613.5469" x2="4420.9448" y2="8660.2725" gradientTransform="matrix(0.275 0 0 0.2733 -1169.7629 -2324.9595)"&gt;
+		&lt;stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.24"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.16"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path id="face_highlight_11_" fill="url(#face_highlight_4_)" d="M43.979,28.166c-3.018,0.023-5.373,2.247-6.394,5.193
+		c-0.332,0.959-0.147,2.021,0.49,2.813c1.364,1.699,2.864,3.142,4.729,4.044c1.568,0.76,3.768,1.192,5.945,0.624
+		c1.139-0.297,1.994-1.229,2.188-2.383c0.092-0.548,0.146-1.146,0.144-1.776C51.041,31.977,48.137,28.134,43.979,28.166z"/&gt;
+	&lt;path fill="#CC9869" stroke="#99724F" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="M46.107,29.969
+		c0,0,2.845,1.375,3.845,4.062c1.052,2.826,2.062,4.117,2.095,4c0.938-3.395,0.531-10.718-5.086-10.792
+		c-10.229-3.832-12.79,5.98-11.947,9.824c0.539,2.457,1.117,3.344,1.971,4.041C36.982,41.104,37.514,33.781,46.107,29.969z"/&gt;
+	
+		&lt;linearGradient id="body_2_" gradientUnits="userSpaceOnUse" x1="83.9365" y1="2419.1064" x2="51.7404" y2="2419.1064" gradientTransform="matrix(0.9852 0 0 0.9852 -22.6981 -2330.2188)"&gt;
+		&lt;stop  offset="0" style="stop-color:#49AD33"/&gt;
+		&lt;stop  offset="1" style="stop-color:#C2DA92"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path id="body_35_" fill="url(#body_2_)" stroke="#008D33" stroke-width="0.5" d="M30.25,56.384c0,0.97,0.787,1.747,1.762,1.747
+		h24.256c0.974,0,1.76-0.779,1.76-1.747c0,0-0.922-3.431-3.262-5.771c-2.408-2.406-4.123-2.572-4.123-2.572
+		c-0.723,3.49-4.276,4.393-6.504,4.393c-2.227,0-5.75-0.994-6.059-4.393c0,0-1.878-0.207-4.596,2.51
+		C30.689,53.346,30.25,56.384,30.25,56.384z"/&gt;
+	
+		&lt;radialGradient id="neck_x5F_white_5_" cx="14.0952" cy="-1534.9302" r="5.7236" fx="12.9786" fy="-1535.5386" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#B38E5D"/&gt;
+		&lt;stop  offset="1" style="stop-color:#805126"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="neck_x5F_white_2_" fill="url(#neck_x5F_white_5_)" stroke="#5B453B" stroke-width="0.5" stroke-miterlimit="10" d="
+		M9.859,43.898h9.094v6.615c-0.656,0.187-8.586,0.219-9.094,0.086V43.898z"/&gt;
+	
+		&lt;radialGradient id="SVGID_4_" cx="13.8213" cy="-1539.1084" r="15.5272" fx="10.7923" fy="-1540.7589" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#B38E5D"/&gt;
+		&lt;stop  offset="1" style="stop-color:#805126"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path fill="url(#SVGID_4_)" stroke="#5B453B" stroke-width="0.5" stroke-miterlimit="10" d="M24.986,50.611
+		c-2.199-2.196-5.477-2.94-6.033-3.055v-3.658H9.859c0,0,0.02,3.453,0,3.436c0,0-3.437,0.499-6.153,3.216
+		c-2.796,2.796-3.235,5.835-3.235,5.835c0,0.971,0.787,1.746,1.762,1.746h24.255c0.974,0,1.761-0.777,1.761-1.746
+		C28.248,56.384,27.326,52.953,24.986,50.611z"/&gt;
+	
+		&lt;radialGradient id="face_x5F_white_5_" cx="13.9722" cy="-1525.0908" r="11.7123" fx="11.6873" fy="-1526.3357" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#B38E5D"/&gt;
+		&lt;stop  offset="1" style="stop-color:#805126"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="face_x5F_white_2_" fill="url(#face_x5F_white_5_)" stroke="#5B453B" stroke-width="0.5" stroke-miterlimit="10" d="
+		M22.059,36.68c0.043,5.1-3.369,9.26-7.623,9.293c-4.251,0.033-7.732-4.074-7.775-9.173c-0.042-5.1,3.369-9.261,7.622-9.294
+		C18.536,27.473,22.016,31.579,22.059,36.68z"/&gt;
+	
+		&lt;linearGradient id="face_highlight_5_" gradientUnits="userSpaceOnUse" x1="4300.8428" y1="8613.5449" x2="4312.6582" y2="8660.2734" gradientTransform="matrix(0.275 0 0 0.2733 -1169.7629 -2324.9595)"&gt;
+		&lt;stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.42"/&gt;
+		&lt;stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.12"/&gt;
+	&lt;/linearGradient&gt;
+	&lt;path id="face_highlight_2_" fill="url(#face_highlight_5_)" d="M14.2,28.166c-3.018,0.023-5.374,2.247-6.394,5.193
+		c-0.332,0.959-0.147,2.021,0.49,2.813c1.364,1.699,2.864,3.142,4.73,4.044c1.568,0.76,3.767,1.192,5.945,0.624
+		c1.139-0.297,1.994-1.229,2.188-2.383c0.092-0.548,0.146-1.146,0.143-1.776C21.262,31.977,18.357,28.134,14.2,28.166z"/&gt;
+	
+		&lt;path id="Hair_Young_Black_1_" fill="#4B4B4B" stroke="#000000" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" d="
+		M10.359,31.625c1.709,2.166,4.667,3.459,4.667,3.459l-0.708-1.75c0,0,3.547,2.346,4.041,2.166c0.484-0.1-0.541-1.902-0.541-1.902
+		s1.568,0.896,2.428,1.983c0.9,1.14,2.143,1.752,2.143,1.752s1.346-10.974-8.523-10.961C4.359,26.354,6.25,38.839,6.25,38.839
+		L7.568,33.5c0,0,0.457,2.879,0.699,2.438C9.151,32.605,9.651,30.75,10.359,31.625z"/&gt;
+	
+		&lt;radialGradient id="collar_x5F_body_3_" cx="7.6602" cy="-1540.813" r="16.2003" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#B0E8FF"/&gt;
+		&lt;stop  offset="1" style="stop-color:#74AEEE"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="collar_x5F_body_1_" fill="url(#collar_x5F_body_3_)" stroke="#5491CF" stroke-width="0.5" d="M0.471,56.384
+		c0,0.97,0.787,1.747,1.762,1.747h24.255c0.974,0,1.761-0.779,1.761-1.747c0,0-0.922-3.431-3.262-5.771
+		c-2.408-2.406-5.623-3.072-5.623-3.072c-0.885,0.827-2.805,1.4-5.031,1.4s-4.146-0.573-5.031-1.4c0,0-2.878,0.293-5.595,3.01
+		C0.91,53.346,0.471,56.384,0.471,56.384z"/&gt;
+	
+		&lt;radialGradient id="collar_x5F_r_3_" cx="15.8306" cy="-1535.874" r="4.6412" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#80CCFF"/&gt;
+		&lt;stop  offset="1" style="stop-color:#74AEEE"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="collar_x5F_r_1_" fill="url(#collar_x5F_r_3_)" stroke="#5491CF" stroke-width="0.5" d="M19.301,45.689
+		c0,0-0.287,1.186-1.506,2.222c-1.055,0.897-2.893,1.036-2.893,1.036l1.986,3.107c0,0,1.479-0.818,2.504-1.924
+		c0.961-1.035,0.686-2.74,0.686-2.74L19.301,45.689z"/&gt;
+	
+		&lt;radialGradient id="collar_x5F_l_3_" cx="9.6494" cy="-1535.896" r="4.6422" gradientTransform="matrix(1 0 0 -1 0.2002 -1487.2285)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#80CCFF"/&gt;
+		&lt;stop  offset="1" style="stop-color:#74AEEE"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;path id="collar_x5F_l_1_" fill="url(#collar_x5F_l_3_)" stroke="#5491CF" stroke-width="0.5" d="M9.536,45.711
+		c0,0,0.288,1.186,1.506,2.221c1.055,0.896,2.893,1.037,2.893,1.037l-1.987,3.107c0,0-1.479-0.818-2.504-1.926
+		c-0.961-1.035-0.685-2.739-0.685-2.739L9.536,45.711z"/&gt;
+	
+		&lt;radialGradient id="Knob2_3_" cx="14.0645" cy="-767.6421" r="0.4842" gradientTransform="matrix(1 0 0 -1 0.1201 -714.5371)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#80CCFF"/&gt;
+		&lt;stop  offset="1" style="stop-color:#74AEEE"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;circle id="Knob2_1_" fill="url(#Knob2_3_)" stroke="#5491CF" stroke-width="0.5" cx="14.35" cy="53.127" r="0.292"/&gt;
+	
+		&lt;radialGradient id="Knob1_3_" cx="14.0835" cy="-770.7642" r="0.4844" gradientTransform="matrix(1 0 0 -1 0.1201 -714.5371)" gradientUnits="userSpaceOnUse"&gt;
+		&lt;stop  offset="0" style="stop-color:#80CCFF"/&gt;
+		&lt;stop  offset="1" style="stop-color:#74AEEE"/&gt;
+	&lt;/radialGradient&gt;
+	&lt;circle id="Knob1_1_" fill="url(#Knob1_3_)" stroke="#5491CF" stroke-width="0.5" cx="14.369" cy="56.25" r="0.292"/&gt;
+	&lt;path id="path5135_1_" fill="#D54A30" stroke="#B51A19" stroke-width="0.5" d="M13.935,52.609c0,0-0.925,1.029-1.04,3.271
+		c-0.115,2.244,0,2.244,0,2.244h3.273c0,0,0.115,0.031-0.077-2.182c-0.2-2.303-1.194-3.334-1.194-3.334H13.935L13.935,52.609z"/&gt;
+	&lt;path id="path5131_1_" fill="#D54A30" stroke="#B51A19" stroke-width="0.5" d="M14.377,49.34h0.062l1.276,2.001
+		c0.258,0.478-0.604,0.897-0.728,1.274l-1.14-0.008c-0.121-0.381-1.128-0.684-0.738-1.293L14.377,49.34z"/&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="10" type="java.awt.image.BufferedImage">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABWUlEQVR42r2WzWrCQBSFB9qV1HYX&#13;
+F1Ur0o3QvkIXBcEHEBGRbopbEWohvoWbvoAUcdFFBUEUEVqX/tcX8owcIYSY+VF74COS3Dt3cufm&#13;
+oBDhSoEGGII5mJEFGAAX3AkLyaQOGIEycAJiYuAFjEEbJHQXL4EpeDLY0DPfsKgKfANfIGLx1lfg&#13;
+G9TCdi4XvxD2krldUAjq+dRy535F2a6492bHsOcqZcGndxRHmokP4EMz9hckBee8rJHwCP74Hejo&#13;
+FbwLfkSOIjgDNrzqFpBn0Bc8EJXS4J6/ZwZnsTZNMI1f/UuBxRkLyKHYuWLsDAUS+0N26YqnLlAB&#13;
+9b1NjA0KNDXjJl4Lb9NyT6UcaPn7NaflHqsbsAS3/gdF+vkxdn0JeiB/KKBGP49aLH7NxauqwALb&#13;
+lTXs+TJs50FGJf38h64YPzDnFU5LK6jnOkrScvs0rhVZ815d9W9iCwdaRDluvChfAAAAAElFTkSu&#13;
+QmCC</y:Resource>
+      <y:Resource id="11" type="java.awt.image.BufferedImage">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABf0lEQVR42q2Wz0pCQRjFJ6pNZG1C&#13;
+g9Ra9AYtWhWRCT1AiIS1KNyGkYE9ThLiokVBYIUIFgRl/mvT63QGzoXLZbzzzdiB38Lrmbkz33xz&#13;
+VKl4bYAb8Ar64JsMwAuogXXlIT2oCdqgBJIGTwqcgg5ogIx08mPQA7sOC9rnDos24xW4Bwseu14E&#13;
+D6ASt3I9+azylx77CAqmmvc8Vx5VguVKhx82HWtuUx7chVuxbRlwAEYRcpYxbyCr2Oclh9XNgC+w&#13;
+YvGdg2vFS5R0eMEOuBX49Bm0FA/ERfq8toXeseLVl2oVfLBMEo1cX6C74zfuMpleMHAs0Tx4BlsC&#13;
+749iKqYsxhNwFvp8yaCLUyY45JrAvAk+2dfBrbfFdBlUg5joCLab4251efYE/vdwhDcYuf+lQ1CP&#13;
+1qvPyJ1Wy2AI1qJfFJnn08T1HHgCR5MMFeZ5wmPyJU5+YTMWWK68Y82HcSs3BZXO8y5TMT2hz8vs&#13;
+lrqp5hJlGbktBlfwWzDms6rt38QfeSdJctsTxGYAAAAASUVORK5CYII=</y:Resource>
+      <y:Resource id="12" type="java.awt.image.BufferedImage">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABe0lEQVR42q2Wz0pCQRTGJ6pNZO10&#13;
+UdqfZ2hTRItA6AFCIiUCc2tSBtaTREsRcVFgEEghQro0//YQvUbfwCdcLtOdM2Mf/EAuZ+ace+bM&#13;
+d1UqWtvgHnyAAfgiQ/AOKmBLeUgvaoA2yIG4ISYBLkAH1EFSuvk56IMjh4KO+YZntsBb8AxWPN56&#13;
+FTRBKapyvfmi8pde+woypp73PSsPK8Z2bQYfNhx7blMa1IKj2HZYvA9uBHFdkFKc85xw82XwDR4F&#13;
+sXlwp3iJ4sIE+mK9CBPoM2gpHohEuxyEA2ECrYni1bdpgdUcgj2HBGNpAn1Dn/jbOcHQErQOfsAD&#13;
+uGSCHtgRJJgqumLCcnGuSJYJPgUumpwdcoWuKJW0RQVQntlExyGBnqZrQVwvaOF1Wu5/6QRUw/0a&#13;
+0HLnlR6KEdgwjWJzTrteAm/g9K+AEv085rH5Gjcv2gIzbFfaseejqMpNRlXjvOfDH4/AuRU4LVVT&#13;
+zyVK0XJbNK4xmfBZ2fZv4hcFVEm8LXFzngAAAABJRU5ErkJggg==</y:Resource>
+      <y:Resource id="13" type="java.awt.image.BufferedImage">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABdElEQVR42rWWzUoDMRSFA7oSq7t2&#13;
+YVsVfA4VpeDGnZQi9Qe14EoLtlBfp0jpwoWC4A9lQF1J7c/4Cr6IJ3AGQpjOzaT2wLeZuTfJvUnO&#13;
+jFLJWgO34A0MwDcZglfQAqvKQzqpC3qgCrIxMTlwDALQAQXXwQ9BH2ymWNAOK6xIgTfgHix4VL0I&#13;
+HkA9aeV68DnlL537CMpxPe97rtxWhu3Kmw+7KXsuqQTuzKPYExL2wdhiS8j5AEXFc14Vgi/BRcoq&#13;
+zkFT8RJlZzCB3oNnxQ1RM5hAK1S8+pJOwS97H3ATXTR2ncBUkTnrrhMMPUq/ZlWSfhRdMScEHoEz&#13;
+a4ITIacQbXKLrpikDfDF9kS3XrLpGmhENhE4lLvLal/AtkP8p2nhHVruf2kPtO1+DWi502oZjMCK&#13;
+/aJCP5/GrufBEziYFFCnn2c8Bl/i4FdSYJntKqXs+Shp5XFGpf38na6Yn3DOazwt7bieu9pCkxcm&#13;
+NL4FIZ81pL+JP04fStOps0gKAAAAAElFTkSuQmCC</y:Resource>
+      <y:Resource id="14" type="java.awt.image.BufferedImage">iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABgElEQVR42q2Wz0oCURTGbxQtImun&#13;
+RKPVoqfoz6IQonWIhJQgbkvIwF6jB2ghIS6CCgIpdKDaROa/nqjvxjcwyTjn3msf/BYO5545c+ac&#13;
+b1QqXuvgCryAHvgiffAMamBNOUgfaoI2KIBkREwKnAAfNEDaNPkx6IJdi4L2+IR5KfAC3IEFh6de&#13;
+BA+gEle5Tj6r3KXPPoJcVM+7jpWPK8F2eeGLTcueS8qC2/Aotg0OHXBifCaQ9AYyinNeEII3wQdY&#13;
+5aN/gg3hTAlcKi5RUgjWBRRDv/WknApndCEtxRdiqxuwYxA3Ulx9G+2DDpgxiB3a3sBjVSuG8b83&#13;
+6BsGz3Myti0K+lZ0xZRB8DU4t0ieDl5yja4Ypy1wb9j3QGVQDWzCF4IPQ9+CAGnz38MW3qDl/pf0&#13;
+1tfH+9Wj5U6rZTDg1v9Rnn4+jV3PgSdwNCmgQj9POCRfYvIzKTDHdmUtez6IqzxqY7Wfv9IVvQlz&#13;
+Xua01KN6bqIMLbdFixiSEa9VpX8TPzxlSUulfAg8AAAAAElFTkSuQmCC</y:Resource>
+      <y:Resource id="15" type="java.awt.image.BufferedImage">iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAArElEQVR42u3WQQ6CQAyF4VkhXtFT&#13;
+asBg5AwEr8GCMwztgiWJo1OmkL/JW5LhA/pCCIz/+UiiUXrJ1RoQjfO2RqwHWT6Yl6Q+MkDTWSH2&#13;
+AmieksuRAZo2N2ILkLqsKdc3ORElAJqHpPL8Cc1fIO6eATfJ9MObcwPY7dzTAnL/UgBgBwAAoIVo&#13;
+IQAAaCEA7AAAALQQLQQAAC0EgB0AAMBuWf9d7uQZC978EBjnswB8jBZM419V5gAAAABJRU5ErkJg&#13;
+gg==</y:Resource>
+    </y:Resources>
+  </data>
+</graphml>
